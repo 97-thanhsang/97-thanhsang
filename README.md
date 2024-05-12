@@ -5,7 +5,7 @@ A passionate FrontEnd | BackEnd from VietNam
 
 [![](https://visitcount.itsvg.in/api?id=97-ThanhSang&icon=7&color=0)](https://visitcount.itsvg.in)
 
-##
+# Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/97-thanhsang/) 
 
 # Tech Stack
